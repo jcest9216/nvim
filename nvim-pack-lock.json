@@ -1,0 +1,16 @@
+{
+  "plugins": {
+    "fzf": {
+      "rev": "fff7eda9d76209e7e07f87ad3a116952297492a2",
+      "src": "https://github.com/junegunn/fzf"
+    },
+    "fzf.vim": {
+      "rev": "34a564c81f36047f50e593c1656f4580ff75ccca",
+      "src": "https://github.com/junegunn/fzf.vim"
+    },
+    "typst-preview.nvim": {
+      "rev": "bf5d5eaf23bbfcca9f98a24ed29bd084abf89bf2",
+      "src": "https://github.com/chomosuke/typst-preview.nvim"
+    }
+  }
+}
